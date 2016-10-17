@@ -1,5 +1,5 @@
 package aaa;
 
 public class AAA {
-	private int as=0;
+	private int asff=0;
 }
